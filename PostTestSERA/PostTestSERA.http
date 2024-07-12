@@ -1,0 +1,6 @@
+@PostTestSERA_HostAddress = http://localhost:5255
+
+GET {{PostTestSERA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

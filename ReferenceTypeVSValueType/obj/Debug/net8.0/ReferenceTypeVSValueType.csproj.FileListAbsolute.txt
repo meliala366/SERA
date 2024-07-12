@@ -1,0 +1,14 @@
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\bin\Debug\net8.0\ReferenceTypeVSValueType.exe
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\bin\Debug\net8.0\ReferenceTypeVSValueType.deps.json
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\bin\Debug\net8.0\ReferenceTypeVSValueType.runtimeconfig.json
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\bin\Debug\net8.0\ReferenceTypeVSValueType.dll
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\bin\Debug\net8.0\ReferenceTypeVSValueType.pdb
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\obj\Debug\net8.0\ReferenceTypeVSValueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\obj\Debug\net8.0\ReferenceTypeVSValueType.AssemblyInfoInputs.cache
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\obj\Debug\net8.0\ReferenceTypeVSValueType.AssemblyInfo.cs
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\obj\Debug\net8.0\ReferenceTypeVSValueType.csproj.CoreCompileInputs.cache
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\obj\Debug\net8.0\ReferenceTypeVSValueType.dll
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\obj\Debug\net8.0\refint\ReferenceTypeVSValueType.dll
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\obj\Debug\net8.0\ReferenceTypeVSValueType.pdb
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\obj\Debug\net8.0\ReferenceTypeVSValueType.genruntimeconfig.cache
+C:\Users\robby\source\repos\ReferenceTypeVSValueType\obj\Debug\net8.0\ref\ReferenceTypeVSValueType.dll
